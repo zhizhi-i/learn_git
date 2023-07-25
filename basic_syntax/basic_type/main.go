@@ -14,5 +14,7 @@ func main() {
 	//不同类型的无法进行计算
 	//var d int32 = 12
 	//println(a + d)
-	string()
+	//string()
+	//ByteExample()
+	Bool()
 }
